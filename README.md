@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, my name is Onur GENC :D
+## I am a student in computer science who likes web development and discovering open-source projects 
+
 
 <!--
 **TsukuyomiKun3/TsukuyomiKun3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
