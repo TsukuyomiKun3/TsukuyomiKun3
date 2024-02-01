@@ -1,4 +1,4 @@
-### Hello, my name is Onur GENC :D
+# Hello, my name is Onur GENC :D
 ## I am a student in computer science who likes web development and discovering open-source projects 
 
 
