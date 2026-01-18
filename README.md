@@ -1,5 +1,5 @@
-# Hello, my name is Onur GENC :D
-## I am a student in computer science who likes web development and discovering open-source projects 
+<!--# Hello, my name is Onur GENC :D
+## I am a student in computer science who likes web development and discovering open-source projects -->
 
 
 <!--
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# My work environment
+<!--# My work environment
 <div>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white">
-</div>
+</div>-->
 
 ## Databases
 
